@@ -1,0 +1,21 @@
+{
+  "name": "dinner-trello",
+  "version": "1.0.0",
+  "description": "responds to trello events on the dinner trello board",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/skaasten/dinner-trello.git"
+  },
+  "author": "Shaun Kaasten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skaasten/dinner-trello/issues"
+  },
+  "homepage": "https://github.com/skaasten/dinner-trello#readme"
+}
