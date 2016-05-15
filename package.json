@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/skaasten/dinner-trello.git"
+    "url": "git+ssh://git@github.com/skaasten/trello-dinner"
   },
   "author": "Shaun Kaasten",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/skaasten/dinner-trello/issues"
+    "url": "https://github.com/skaasten/trello-dinner/issues"
   },
-  "homepage": "https://github.com/skaasten/dinner-trello#readme"
+  "homepage": "https://github.com/skaasten/trello-dinner#readme"
 }
