@@ -4,7 +4,8 @@
   "description": "responds to trello events on the dinner trello board",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "trello": "^0.5.1"
   },
   "devDependencies": {},
   "scripts": {
